@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jacobjakeo / Jakub!
+- 👀 I’m interested in web design, photography and front-end development.
+- 🌱 I’m currently learning full stack development at UpLeveled.io!
+- 💞️ I’m looking to collaborate on anything fun, especially open for junior job offers, either remote or in Vienna.
+- 📫 You can reach out to me through my linkedin : https://www.linkedin.com/in/jakub-okša-27138a19b/

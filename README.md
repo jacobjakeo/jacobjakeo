@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently a Full Stack Development Student at UpLeveled.io in Vienna! 
+I'm currently a Full Stack Development Student at UpLeveled.io in Vienna!
+Interested in all things Frontend, UI and making things look pretty! 🤩 
 
 
 ## 🌐 Socials:

@@ -1,10 +1,10 @@
 # 🤖 About Me:
 
-I'm Jakub, a Fullstack student at UpLeveled.io in Vienna. With 7 years of experience in working in the hospitality industry and management, I've decided to go back into tech, and pursue my passion for web design and development. 🚀
+I'm Jakub! After 7 years of background in hospitality industry and management, I've decided to go back into tech, and pursue my passion for web design and development. 🚀
 
 
 ## 👥 Get in Touch:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-okša-27138a19b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakuboksa/) 
 
 # 🦾 Tech Stack:
 # Frontend
